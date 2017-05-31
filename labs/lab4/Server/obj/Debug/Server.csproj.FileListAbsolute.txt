@@ -1,0 +1,18 @@
+e:\Учеба\бпид\Lab4\Server\bin\Debug\Server.exe.config
+e:\Учеба\бпид\Lab4\Server\bin\Debug\Server.exe
+e:\Учеба\бпид\Lab4\Server\bin\Debug\Server.pdb
+e:\Учеба\бпид\Lab4\Server\obj\Debug\Server.exe
+e:\Учеба\бпид\Lab4\Server\obj\Debug\Server.pdb
+e:\Учеба\бпид\Lab4\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\3 курс\Безопасность данных\бпид\Lab4\Server\bin\Debug\Server.exe.config
+D:\3 курс\Безопасность данных\бпид\Lab4\Server\obj\Debug\Server.exe
+D:\3 курс\Безопасность данных\бпид\Lab4\Server\obj\Debug\Server.pdb
+D:\3 курс\Безопасность данных\бпид\Lab4\Server\bin\Debug\Server.exe
+D:\3 курс\Безопасность данных\бпид\Lab4\Server\bin\Debug\Server.pdb
+D:\3 курс\Безопасность данных\бпид\Lab4\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\3 курс\Безопасность данных\Labs_Rudenko\Lab4\Server\bin\Debug\Server.exe.config
+D:\3 курс\Безопасность данных\Labs_Rudenko\Lab4\Server\obj\Debug\Server.exe
+D:\3 курс\Безопасность данных\Labs_Rudenko\Lab4\Server\obj\Debug\Server.pdb
+D:\3 курс\Безопасность\Labs_Rudenko\lab_4\Server\bin\Debug\Server.exe.config
+D:\3 курс\Безопасность\Labs_Rudenko\lab_4\Server\obj\Debug\Server.exe
+D:\3 курс\Безопасность\Labs_Rudenko\lab_4\Server\obj\Debug\Server.pdb

@@ -1,0 +1,81 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+
+<br/>
+<div class="row">
+    <table class="table">
+        <tr>
+            <td>Тип операции</td>
+            <td id="action"></td>
+        </tr>
+        <tr>
+            <td>Id платежа в системе LiqPay</td>
+            <td id="payment_id"></td>
+        </tr>
+        <tr>
+            <td>Статус платежа</td>
+            <td id="status"></td>
+        </tr>
+        <tr>
+            <td>Код ошибки.</td>
+            <td id="err_code"></td>
+        </tr>
+        <tr>
+            <td>Описание ошибки.</td>
+            <td id="err_description"></td>
+        </tr>
+        <tr>
+            <td>Версия API.</td>
+            <td id="version"></td>
+        </tr>
+        <tr>
+            <td>Тип платежа.</td>
+            <td id="type"></td>
+        </tr>
+        <tr>
+            <td>Публичный ключ магазина</td>
+            <td id="public_key"></td>
+        </tr>
+        <tr>
+            <td>Order_id платежа</td>
+            <td id="order_id"></td>
+        </tr>
+        <tr>
+            <td>Order_id платежа в системе Liqpay</td>
+            <td id="liqpay_order_id"></td>
+        </tr>
+        <tr>
+            <td>Комментарий к платежу</td>
+            <td id="description"></td>
+        </tr>
+        <tr>
+            <td>IP адрес отправителя</td>
+            <td id="ip"></td>
+        </tr>
+        <tr>
+            <td>Сумма платежа</td>
+            <td id="amount"></td>
+        </tr>
+        <tr>
+            <td>Валюта платежа</td>
+            <td id="currency"></td>
+        </tr>
+    </table>
+</div>
+
+<script>
+    function parseData() {
+        var str = '@Model'.replace(/&quot;/g, '"');
+        var data = JSON.parse(str);
+        for (var k in data)
+        {
+            var el = document.getElementById(k);
+            if (el != null) {
+                el.innerText = data[k];
+                el.innerHTML = data[k];
+            }
+        }     
+    }
+    parseData();
+</script>

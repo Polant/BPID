@@ -1,0 +1,9 @@
+c:\users\juliu_000\documents\visual studio 2015\Projects\VigenereCipher\VigenereCipher\bin\Debug\VigenereCipher.exe.config
+c:\users\juliu_000\documents\visual studio 2015\Projects\VigenereCipher\VigenereCipher\bin\Debug\VigenereCipher.exe
+c:\users\juliu_000\documents\visual studio 2015\Projects\VigenereCipher\VigenereCipher\bin\Debug\VigenereCipher.pdb
+c:\users\juliu_000\documents\visual studio 2015\Projects\VigenereCipher\VigenereCipher\obj\Debug\VigenereCipher.csprojResolveAssemblyReference.cache
+c:\users\juliu_000\documents\visual studio 2015\Projects\VigenereCipher\VigenereCipher\obj\Debug\VigenereCipher.Form1.resources
+c:\users\juliu_000\documents\visual studio 2015\Projects\VigenereCipher\VigenereCipher\obj\Debug\VigenereCipher.Properties.Resources.resources
+c:\users\juliu_000\documents\visual studio 2015\Projects\VigenereCipher\VigenereCipher\obj\Debug\VigenereCipher.csproj.GenerateResource.Cache
+c:\users\juliu_000\documents\visual studio 2015\Projects\VigenereCipher\VigenereCipher\obj\Debug\VigenereCipher.exe
+c:\users\juliu_000\documents\visual studio 2015\Projects\VigenereCipher\VigenereCipher\obj\Debug\VigenereCipher.pdb

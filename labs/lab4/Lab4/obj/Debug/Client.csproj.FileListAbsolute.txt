@@ -1,0 +1,23 @@
+e:\Учеба\бпид\Lab4\Lab4\bin\Debug\Lab4.exe.config
+e:\Учеба\бпид\Lab4\Lab4\bin\Debug\Lab4.exe
+e:\Учеба\бпид\Lab4\Lab4\bin\Debug\Lab4.pdb
+e:\Учеба\бпид\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+e:\Учеба\бпид\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+e:\Учеба\бпид\Lab4\Lab4\obj\Debug\Client.csproj.GenerateResource.Cache
+e:\Учеба\бпид\Lab4\Lab4\obj\Debug\Lab4.exe
+e:\Учеба\бпид\Lab4\Lab4\obj\Debug\Lab4.pdb
+E:\Учеба\бпид\Lab4\Lab4\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Учеба\бпид\Lab4\Lab4\obj\Debug\Lab4.Form2.resources
+D:\3 курс\Безопасность данных\бпид\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\3 курс\Безопасность данных\бпид\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\3 курс\Безопасность данных\бпид\Lab4\Lab4\obj\Debug\Lab4.pdb
+D:\3 курс\Безопасность данных\бпид\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\3 курс\Безопасность данных\бпид\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\3 курс\Безопасность данных\бпид\Lab4\Lab4\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\3 курс\Безопасность данных\бпид\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+D:\3 курс\Безопасность данных\бпид\Lab4\Lab4\obj\Debug\Lab4.Form2.resources
+D:\3 курс\Безопасность данных\бпид\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\3 курс\Безопасность данных\бпид\Lab4\Lab4\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\3 курс\Безопасность данных\Labs_Rudenko\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\3 курс\Безопасность данных\Labs_Rudenko\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\3 курс\Безопасность данных\Labs_Rudenko\Lab4\Lab4\obj\Debug\Lab4.pdb

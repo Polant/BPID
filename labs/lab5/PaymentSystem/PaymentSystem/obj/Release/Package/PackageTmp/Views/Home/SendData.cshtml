@@ -1,0 +1,11 @@
+﻿<html>
+<body>
+    <form name='respond' target='blank' action='https://www.liqpay.com/api/3/checkout' method='post' id='respond'>
+        <input type='hidden' name='data' value='@Model["data"]'>
+        <input type='hidden' name='signature' value='@Model["signature"]'>
+    </form>
+<script>
+    document.getElementById('respond').submit();
+</script>
+</body>
+</html>

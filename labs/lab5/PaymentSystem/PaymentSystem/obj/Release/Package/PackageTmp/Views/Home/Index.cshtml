@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<br/>
+
+<div class="row">
+    <form method="POST" accept-charset="utf-8" action="https://www.liqpay.com/api/3/checkout">
+        <input type="hidden" name="data" value="eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXlkb25hdGUiLCJwdWJsaWNfa2V5IjoiaTI3ODAxODIyNjM5IiwiYW1vdW50IjoiMSIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiLQutC10LoiLCJ0eXBlIjoiZG9uYXRlIiwic2FuZGJveCI6IjEiLCJzZXJ2ZXJfdXJsIjoiaHR0cDovL2xhYjRwYXlzeXN0ZW0uYXp1cmV3ZWJzaXRlcy5uZXQvSG9tZS9Db250YWN0IiwicmVzdWx0X3VybCI6Imh0dHA6Ly9sYWI0cGF5c3lzdGVtLmF6dXJld2Vic2l0ZXMubmV0L0hvbWUvQWJvdXQiLCJsYW5ndWFnZSI6InJ1In0=" />
+        <input type="hidden" name="signature" value="vmC9H5fLRZkM7sGJ3RifqTE1HQU=" />
+        <button style="border: none !important; display:inline-block !important;text-align: center !important;padding: 7px 20px !important;
+                                      color: #fff !important; font-size:16px !important; font-weight: 600 !important; font-family:OpenSans, sans-serif; cursor: pointer !important; border-radius: 2px !important;
+                                      background: rgb(122,183,43) !important;" onmouseover="this.style.opacity='0.5';" onmouseout="this.style.opacity='1';">
+            <img src="https://static.liqpay.com/buttons/logo-small.png" name="btn_text"
+                 style="margin-right: 7px !important; vertical-align: middle !important;" />
+            <span style="vertical-align:middle; !important">Оплатить 1 UAH</span>
+        </button>
+    </form>
+</div>
+<br />
+<br />
+<br />
+<div class="row">
+    <form method="POST" action="/Home/SendData">
+        <input type="number" name="val" value="1" id="val" />
+        <input type="submit" name="btn_text" value="Pay!" />
+    </form>
+
+</div>

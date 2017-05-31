@@ -1,0 +1,9 @@
+c:\users\juliu_000\documents\visual studio 2015\Projects\Lab3Digital\Lab3Digital\bin\Debug\Lab3Digital.exe.config
+c:\users\juliu_000\documents\visual studio 2015\Projects\Lab3Digital\Lab3Digital\obj\Debug\Lab3Digital.csprojResolveAssemblyReference.cache
+c:\users\juliu_000\documents\visual studio 2015\Projects\Lab3Digital\Lab3Digital\obj\Debug\Lab3Digital.Form1.resources
+c:\users\juliu_000\documents\visual studio 2015\Projects\Lab3Digital\Lab3Digital\obj\Debug\Lab3Digital.Properties.Resources.resources
+c:\users\juliu_000\documents\visual studio 2015\Projects\Lab3Digital\Lab3Digital\obj\Debug\Lab3Digital.csproj.GenerateResource.Cache
+c:\users\juliu_000\documents\visual studio 2015\Projects\Lab3Digital\Lab3Digital\bin\Debug\Lab3Digital.exe
+c:\users\juliu_000\documents\visual studio 2015\Projects\Lab3Digital\Lab3Digital\bin\Debug\Lab3Digital.pdb
+c:\users\juliu_000\documents\visual studio 2015\Projects\Lab3Digital\Lab3Digital\obj\Debug\Lab3Digital.exe
+c:\users\juliu_000\documents\visual studio 2015\Projects\Lab3Digital\Lab3Digital\obj\Debug\Lab3Digital.pdb
